@@ -1,2 +1,10 @@
 # Softstarter-PPM
-A pulse position modulation with external synchronism for a Softstarter project utilizing STM32 F411RE with ARM Cortex M4.
+> Controlling a 220 Vac motor [Softstarter](https://en.wikipedia.org/wiki/Motor_soft_starter) with microcontroller and HMI utilizing Cube IDE and Cube Monitor from ST Microeletronics.
+
+# Technologies used
+- Programming language C
+- Microcontroller STM32 F411RE
+- Zero-crossing control (external synchronism)
+- HMI developed in Cube Monitor
+
+#Usage
